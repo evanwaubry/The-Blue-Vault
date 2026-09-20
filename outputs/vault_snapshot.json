@@ -1,0 +1,1187 @@
+{
+  "performance": {
+    "source": "transfermarkt-snapshot",
+    "season": 2026,
+    "competition": "Premier League",
+    "retrievedAt": "2026-09-20T01:44:10.624760+00:00",
+    "sourceUrl": "https://www.transfermarkt.us/chelsea-fc/leistungsdaten/verein/631/plus/1?reldata=GB1%262026",
+    "apiStatus": "Valid key; Free plan blocks 2026/27; permitted seasons 2022–2024.",
+    "unavailableStats": [
+      "cleanSheets"
+    ],
+    "cohort": "27 players in the published current squad; departed players excluded. Chelsea league appearances only. Five team games played."
+  },
+  "players": [
+    {
+      "id": "emiliano-martinez",
+      "name": "Emiliano Martínez",
+      "position": "Goalkeeper",
+      "marketValue": "€12M",
+      "stats": {
+        "appearances": 4,
+        "minutesPlayed": 360,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 1,
+      "nationality": "Argentina"
+    },
+    {
+      "id": "marco-palestra",
+      "name": "Marco Palestra",
+      "position": "Defender",
+      "marketValue": "€35M",
+      "stats": {
+        "appearances": 0,
+        "minutesPlayed": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 2,
+      "nationality": "Italy"
+    },
+    {
+      "id": "wesley-fofana",
+      "name": "Wesley Fofana",
+      "position": "Defender",
+      "marketValue": "€28M",
+      "stats": {
+        "appearances": 4,
+        "minutesPlayed": 315,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 1,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 3,
+      "nationality": "France"
+    },
+    {
+      "id": "valentin-barco",
+      "name": "Valentín Barco",
+      "position": "Midfielder",
+      "marketValue": "€40M",
+      "stats": {
+        "appearances": 3,
+        "minutesPlayed": 115,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 1,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 4,
+      "nationality": "Argentina"
+    },
+    {
+      "id": "maxence-lacroix",
+      "name": "Maxence Lacroix",
+      "position": "Defender",
+      "marketValue": "€50M",
+      "stats": {
+        "appearances": 5,
+        "minutesPlayed": 364,
+        "goals": 0,
+        "assists": 1,
+        "yellowCards": 1,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 5,
+      "nationality": "France"
+    },
+    {
+      "id": "levi-colwill",
+      "name": "Levi Colwill",
+      "position": "Defender",
+      "marketValue": "€50M",
+      "stats": {
+        "appearances": 4,
+        "minutesPlayed": 342,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 1,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 6,
+      "nationality": "England"
+    },
+    {
+      "id": "pedro-neto",
+      "name": "Pedro Neto",
+      "position": "Attacker",
+      "marketValue": "€60M",
+      "stats": {
+        "appearances": 5,
+        "minutesPlayed": 336,
+        "goals": 1,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 7,
+      "nationality": "Portugal"
+    },
+    {
+      "id": "joao-pedro",
+      "name": "João Pedro",
+      "position": "Attacker",
+      "marketValue": "€80M",
+      "stats": {
+        "appearances": 4,
+        "minutesPlayed": 360,
+        "goals": 3,
+        "assists": 3,
+        "yellowCards": 1,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 9,
+      "nationality": "Brazil"
+    },
+    {
+      "id": "cole-palmer",
+      "name": "Cole Palmer",
+      "position": "Midfielder",
+      "marketValue": "€100M",
+      "stats": {
+        "appearances": 5,
+        "minutesPlayed": 443,
+        "goals": 2,
+        "assists": 2,
+        "yellowCards": 1,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 10,
+      "nationality": "England"
+    },
+    {
+      "id": "jamie-gittens",
+      "name": "Jamie Gittens",
+      "position": "Attacker",
+      "marketValue": "€30M",
+      "stats": {
+        "appearances": 0,
+        "minutesPlayed": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 11,
+      "nationality": "England"
+    },
+    {
+      "id": "jordan-henderson",
+      "name": "Jordan Henderson",
+      "position": "Midfielder",
+      "marketValue": "€1.2M",
+      "stats": {
+        "appearances": 1,
+        "minutesPlayed": 90,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 14,
+      "nationality": "England"
+    },
+    {
+      "id": "morgan-rogers",
+      "name": "Morgan Rogers",
+      "position": "Midfielder",
+      "marketValue": "€110M",
+      "stats": {
+        "appearances": 5,
+        "minutesPlayed": 439,
+        "goals": 3,
+        "assists": 1,
+        "yellowCards": 1,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 17,
+      "nationality": "England"
+    },
+    {
+      "id": "danny-welbeck",
+      "name": "Danny Welbeck",
+      "position": "Attacker",
+      "marketValue": "€3M",
+      "stats": {
+        "appearances": 3,
+        "minutesPlayed": 86,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 18,
+      "nationality": "England"
+    },
+    {
+      "id": "jorrel-hato",
+      "name": "Jorrel Hato",
+      "position": "Defender",
+      "marketValue": "€40M",
+      "stats": {
+        "appearances": 4,
+        "minutesPlayed": 260,
+        "goals": 0,
+        "assists": 2,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 21,
+      "nationality": "Netherlands"
+    },
+    {
+      "id": "emmanuel-emegha",
+      "name": "Emmanuel Emegha",
+      "position": "Attacker",
+      "marketValue": "€25M",
+      "stats": {
+        "appearances": 0,
+        "minutesPlayed": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 22,
+      "nationality": "Netherlands"
+    },
+    {
+      "id": "geovany-quenda",
+      "name": "Geovany Quenda",
+      "position": "Attacker",
+      "marketValue": "€42M",
+      "stats": {
+        "appearances": 2,
+        "minutesPlayed": 27,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 23,
+      "nationality": "Portugal"
+    },
+    {
+      "id": "reece-james",
+      "name": "Reece James",
+      "position": "Defender",
+      "marketValue": "€60M",
+      "stats": {
+        "appearances": 4,
+        "minutesPlayed": 292,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 1,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 24,
+      "nationality": "England"
+    },
+    {
+      "id": "moises-caicedo",
+      "name": "Moisés Caicedo",
+      "position": "Midfielder",
+      "marketValue": "€100M",
+      "stats": {
+        "appearances": 1,
+        "minutesPlayed": 14,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 25,
+      "nationality": "Ecuador"
+    },
+    {
+      "id": "malo-gusto",
+      "name": "Malo Gusto",
+      "position": "Defender",
+      "marketValue": "€35M",
+      "stats": {
+        "appearances": 4,
+        "minutesPlayed": 274,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 27,
+      "nationality": "France"
+    },
+    {
+      "id": "teddy-sharman-lowe",
+      "name": "Teddy Sharman-Lowe",
+      "position": "Goalkeeper",
+      "marketValue": "€0.5M",
+      "stats": {
+        "appearances": 0,
+        "minutesPlayed": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 28,
+      "nationality": "England"
+    },
+    {
+      "id": "pep-chavarria",
+      "name": "Pep Chavarría",
+      "position": "Defender",
+      "marketValue": "€10M",
+      "stats": {
+        "appearances": 5,
+        "minutesPlayed": 208,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 29,
+      "nationality": "Spain"
+    },
+    {
+      "id": "aaron-anselmino",
+      "name": "Aarón Anselmino",
+      "position": "Defender",
+      "marketValue": "€10M",
+      "stats": {
+        "appearances": 0,
+        "minutesPlayed": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 30,
+      "nationality": "Argentina"
+    },
+    {
+      "id": "josh-acheampong",
+      "name": "Josh Acheampong",
+      "position": "Defender",
+      "marketValue": "€25M",
+      "stats": {
+        "appearances": 4,
+        "minutesPlayed": 221,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 34,
+      "nationality": "England"
+    },
+    {
+      "id": "mike-penders",
+      "name": "Mike Penders",
+      "position": "Goalkeeper",
+      "marketValue": "€25M",
+      "stats": {
+        "appearances": 0,
+        "minutesPlayed": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 39,
+      "nationality": "Belgium"
+    },
+    {
+      "id": "estevao-willian",
+      "name": "Estêvão",
+      "position": "Attacker",
+      "marketValue": "€80M",
+      "stats": {
+        "appearances": 4,
+        "minutesPlayed": 23,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 41,
+      "nationality": "Brazil"
+    },
+    {
+      "id": "gabriel-slonina",
+      "name": "Gabriel Slonina",
+      "position": "Goalkeeper",
+      "marketValue": "€3M",
+      "stats": {
+        "appearances": 0,
+        "minutesPlayed": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 44,
+      "nationality": "United States"
+    },
+    {
+      "id": "romeo-lavia",
+      "name": "Roméo Lavia",
+      "position": "Midfielder",
+      "marketValue": "€22M",
+      "stats": {
+        "appearances": 4,
+        "minutesPlayed": 263,
+        "goals": 1,
+        "assists": 0,
+        "yellowCards": 1,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 45,
+      "nationality": "Belgium"
+    }
+  ],
+  "market": {
+    "source": "Transfermarkt",
+    "sourceUrl": "https://www.transfermarkt.us/chelsea-fc/kader/verein/631",
+    "retrievedAt": "2026-09-20T01:41:39.260329+00:00",
+    "collectionMethod": "Public squad table and each player profile; manually verified browser snapshot. Not an automated live feed.",
+    "players": [
+      {
+        "id": "mike-penders",
+        "name": "Mike Penders",
+        "transfermarktId": 834397,
+        "position": "Goalkeeper",
+        "valueEur": 25000000,
+        "valuationDate": "2026-06-01",
+        "sourceUrl": "https://www.transfermarkt.us/mike-penders/profil/spieler/834397"
+      },
+      {
+        "id": "emiliano-martinez",
+        "name": "Emiliano Martínez",
+        "transfermarktId": 111873,
+        "position": "Goalkeeper",
+        "valueEur": 12000000,
+        "valuationDate": "2026-06-03",
+        "sourceUrl": "https://www.transfermarkt.us/emiliano-martinez/profil/spieler/111873"
+      },
+      {
+        "id": "gabriel-slonina",
+        "name": "Gabriel Slonina",
+        "transfermarktId": 656316,
+        "position": "Goalkeeper",
+        "valueEur": 3000000,
+        "valuationDate": "2026-06-03",
+        "sourceUrl": "https://www.transfermarkt.us/gabriel-slonina/profil/spieler/656316"
+      },
+      {
+        "id": "teddy-sharman-lowe",
+        "name": "Teddy Sharman-Lowe",
+        "transfermarktId": 731466,
+        "position": "Goalkeeper",
+        "valueEur": 500000,
+        "valuationDate": "2026-06-03",
+        "sourceUrl": "https://www.transfermarkt.us/teddy-sharman-lowe/profil/spieler/731466"
+      },
+      {
+        "id": "maxence-lacroix",
+        "name": "Maxence Lacroix",
+        "transfermarktId": 434224,
+        "position": "Defender",
+        "valueEur": 50000000,
+        "valuationDate": "2026-06-03",
+        "sourceUrl": "https://www.transfermarkt.us/maxence-lacroix/profil/spieler/434224"
+      },
+      {
+        "id": "levi-colwill",
+        "name": "Levi Colwill",
+        "transfermarktId": 614258,
+        "position": "Defender",
+        "valueEur": 50000000,
+        "valuationDate": "2026-06-03",
+        "sourceUrl": "https://www.transfermarkt.us/levi-colwill/profil/spieler/614258"
+      },
+      {
+        "id": "wesley-fofana",
+        "name": "Wesley Fofana",
+        "transfermarktId": 475411,
+        "position": "Defender",
+        "valueEur": 28000000,
+        "valuationDate": "2026-06-03",
+        "sourceUrl": "https://www.transfermarkt.us/wesley-fofana/profil/spieler/475411"
+      },
+      {
+        "id": "josh-acheampong",
+        "name": "Josh Acheampong",
+        "transfermarktId": 1004708,
+        "position": "Defender",
+        "valueEur": 25000000,
+        "valuationDate": "2026-06-03",
+        "sourceUrl": "https://www.transfermarkt.us/josh-acheampong/profil/spieler/1004708"
+      },
+      {
+        "id": "aaron-anselmino",
+        "name": "Aarón Anselmino",
+        "transfermarktId": 1145504,
+        "position": "Defender",
+        "valueEur": 10000000,
+        "valuationDate": "2026-06-01",
+        "sourceUrl": "https://www.transfermarkt.us/aaron-anselmino/profil/spieler/1145504"
+      },
+      {
+        "id": "jorrel-hato",
+        "name": "Jorrel Hato",
+        "transfermarktId": 904802,
+        "position": "Defender",
+        "valueEur": 40000000,
+        "valuationDate": "2026-06-03",
+        "sourceUrl": "https://www.transfermarkt.us/jorrel-hato/profil/spieler/904802"
+      },
+      {
+        "id": "pep-chavarria",
+        "name": "Pep Chavarría",
+        "transfermarktId": 596122,
+        "position": "Defender",
+        "valueEur": 10000000,
+        "valuationDate": "2026-06-05",
+        "sourceUrl": "https://www.transfermarkt.us/pep-chavarria/profil/spieler/596122"
+      },
+      {
+        "id": "reece-james",
+        "name": "Reece James",
+        "transfermarktId": 472423,
+        "position": "Defender",
+        "valueEur": 60000000,
+        "valuationDate": "2026-06-03",
+        "sourceUrl": "https://www.transfermarkt.us/reece-james/profil/spieler/472423"
+      },
+      {
+        "id": "marco-palestra",
+        "name": "Marco Palestra",
+        "transfermarktId": 895937,
+        "position": "Defender",
+        "valueEur": 35000000,
+        "valuationDate": "2026-05-29",
+        "sourceUrl": "https://www.transfermarkt.us/marco-palestra/profil/spieler/895937"
+      },
+      {
+        "id": "malo-gusto",
+        "name": "Malo Gusto",
+        "transfermarktId": 620322,
+        "position": "Defender",
+        "valueEur": 35000000,
+        "valuationDate": "2026-06-03",
+        "sourceUrl": "https://www.transfermarkt.us/malo-gusto/profil/spieler/620322"
+      },
+      {
+        "id": "moises-caicedo",
+        "name": "Moisés Caicedo",
+        "transfermarktId": 687626,
+        "position": "Midfielder",
+        "valueEur": 100000000,
+        "valuationDate": "2026-06-03",
+        "sourceUrl": "https://www.transfermarkt.us/moises-caicedo/profil/spieler/687626"
+      },
+      {
+        "id": "romeo-lavia",
+        "name": "Roméo Lavia",
+        "transfermarktId": 628451,
+        "position": "Midfielder",
+        "valueEur": 22000000,
+        "valuationDate": "2026-06-03",
+        "sourceUrl": "https://www.transfermarkt.us/romeo-lavia/profil/spieler/628451"
+      },
+      {
+        "id": "valentin-barco",
+        "name": "Valentín Barco",
+        "transfermarktId": 849410,
+        "position": "Midfielder",
+        "valueEur": 40000000,
+        "valuationDate": "2026-06-01",
+        "sourceUrl": "https://www.transfermarkt.us/valentin-barco/profil/spieler/849410"
+      },
+      {
+        "id": "jordan-henderson",
+        "name": "Jordan Henderson",
+        "transfermarktId": 61651,
+        "position": "Midfielder",
+        "valueEur": 1200000,
+        "valuationDate": "2026-06-03",
+        "sourceUrl": "https://www.transfermarkt.us/jordan-henderson/profil/spieler/61651"
+      },
+      {
+        "id": "morgan-rogers",
+        "name": "Morgan Rogers",
+        "transfermarktId": 503743,
+        "position": "Midfielder",
+        "valueEur": 110000000,
+        "valuationDate": "2026-07-22",
+        "sourceUrl": "https://www.transfermarkt.us/morgan-rogers/profil/spieler/503743"
+      },
+      {
+        "id": "cole-palmer",
+        "name": "Cole Palmer",
+        "transfermarktId": 568177,
+        "position": "Midfielder",
+        "valueEur": 100000000,
+        "valuationDate": "2026-06-03",
+        "sourceUrl": "https://www.transfermarkt.us/cole-palmer/profil/spieler/568177"
+      },
+      {
+        "id": "jamie-gittens",
+        "name": "Jamie Gittens",
+        "transfermarktId": 670882,
+        "position": "Attacker",
+        "valueEur": 30000000,
+        "valuationDate": "2026-06-03",
+        "sourceUrl": "https://www.transfermarkt.us/jamie-gittens/profil/spieler/670882"
+      },
+      {
+        "id": "estevao-willian",
+        "name": "Estêvão",
+        "transfermarktId": 1056993,
+        "position": "Attacker",
+        "valueEur": 80000000,
+        "valuationDate": "2026-06-03",
+        "sourceUrl": "https://www.transfermarkt.us/estevao/profil/spieler/1056993"
+      },
+      {
+        "id": "pedro-neto",
+        "name": "Pedro Neto",
+        "transfermarktId": 487465,
+        "position": "Attacker",
+        "valueEur": 60000000,
+        "valuationDate": "2026-06-03",
+        "sourceUrl": "https://www.transfermarkt.us/pedro-neto/profil/spieler/487465"
+      },
+      {
+        "id": "geovany-quenda",
+        "name": "Geovany Quenda",
+        "transfermarktId": 1138758,
+        "position": "Attacker",
+        "valueEur": 42000000,
+        "valuationDate": "2026-05-28",
+        "sourceUrl": "https://www.transfermarkt.us/geovany-quenda/profil/spieler/1138758"
+      },
+      {
+        "id": "joao-pedro",
+        "name": "João Pedro",
+        "transfermarktId": 626724,
+        "position": "Attacker",
+        "valueEur": 80000000,
+        "valuationDate": "2026-06-03",
+        "sourceUrl": "https://www.transfermarkt.us/joao-pedro/profil/spieler/626724"
+      },
+      {
+        "id": "emmanuel-emegha",
+        "name": "Emmanuel Emegha",
+        "transfermarktId": 559328,
+        "position": "Attacker",
+        "valueEur": 25000000,
+        "valuationDate": "2026-06-01",
+        "sourceUrl": "https://www.transfermarkt.us/emmanuel-emegha/profil/spieler/559328"
+      },
+      {
+        "id": "danny-welbeck",
+        "name": "Danny Welbeck",
+        "transfermarktId": 67063,
+        "position": "Attacker",
+        "valueEur": 3000000,
+        "valuationDate": "2026-06-03",
+        "sourceUrl": "https://www.transfermarkt.us/danny-welbeck/profil/spieler/67063"
+      }
+    ]
+  },
+  "analyticsPlayers": [
+    {
+      "id": "emiliano-martinez",
+      "name": "Emiliano Martínez",
+      "position": "Goalkeeper",
+      "marketValue": "€12M",
+      "stats": {
+        "appearances": 4,
+        "minutesPlayed": 360,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 1,
+      "nationality": "Argentina"
+    },
+    {
+      "id": "marco-palestra",
+      "name": "Marco Palestra",
+      "position": "Defender",
+      "marketValue": "€35M",
+      "stats": {
+        "appearances": 0,
+        "minutesPlayed": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 2,
+      "nationality": "Italy"
+    },
+    {
+      "id": "wesley-fofana",
+      "name": "Wesley Fofana",
+      "position": "Defender",
+      "marketValue": "€28M",
+      "stats": {
+        "appearances": 4,
+        "minutesPlayed": 315,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 1,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 3,
+      "nationality": "France"
+    },
+    {
+      "id": "valentin-barco",
+      "name": "Valentín Barco",
+      "position": "Midfielder",
+      "marketValue": "€40M",
+      "stats": {
+        "appearances": 3,
+        "minutesPlayed": 115,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 1,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 4,
+      "nationality": "Argentina"
+    },
+    {
+      "id": "maxence-lacroix",
+      "name": "Maxence Lacroix",
+      "position": "Defender",
+      "marketValue": "€50M",
+      "stats": {
+        "appearances": 5,
+        "minutesPlayed": 364,
+        "goals": 0,
+        "assists": 1,
+        "yellowCards": 1,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 5,
+      "nationality": "France"
+    },
+    {
+      "id": "levi-colwill",
+      "name": "Levi Colwill",
+      "position": "Defender",
+      "marketValue": "€50M",
+      "stats": {
+        "appearances": 4,
+        "minutesPlayed": 342,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 1,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 6,
+      "nationality": "England"
+    },
+    {
+      "id": "pedro-neto",
+      "name": "Pedro Neto",
+      "position": "Attacker",
+      "marketValue": "€60M",
+      "stats": {
+        "appearances": 5,
+        "minutesPlayed": 336,
+        "goals": 1,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 7,
+      "nationality": "Portugal"
+    },
+    {
+      "id": "joao-pedro",
+      "name": "João Pedro",
+      "position": "Attacker",
+      "marketValue": "€80M",
+      "stats": {
+        "appearances": 4,
+        "minutesPlayed": 360,
+        "goals": 3,
+        "assists": 3,
+        "yellowCards": 1,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 9,
+      "nationality": "Brazil"
+    },
+    {
+      "id": "cole-palmer",
+      "name": "Cole Palmer",
+      "position": "Midfielder",
+      "marketValue": "€100M",
+      "stats": {
+        "appearances": 5,
+        "minutesPlayed": 443,
+        "goals": 2,
+        "assists": 2,
+        "yellowCards": 1,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 10,
+      "nationality": "England"
+    },
+    {
+      "id": "jamie-gittens",
+      "name": "Jamie Gittens",
+      "position": "Attacker",
+      "marketValue": "€30M",
+      "stats": {
+        "appearances": 0,
+        "minutesPlayed": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 11,
+      "nationality": "England"
+    },
+    {
+      "id": "jordan-henderson",
+      "name": "Jordan Henderson",
+      "position": "Midfielder",
+      "marketValue": "€1.2M",
+      "stats": {
+        "appearances": 1,
+        "minutesPlayed": 90,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 14,
+      "nationality": "England"
+    },
+    {
+      "id": "morgan-rogers",
+      "name": "Morgan Rogers",
+      "position": "Midfielder",
+      "marketValue": "€110M",
+      "stats": {
+        "appearances": 5,
+        "minutesPlayed": 439,
+        "goals": 3,
+        "assists": 1,
+        "yellowCards": 1,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 17,
+      "nationality": "England"
+    },
+    {
+      "id": "danny-welbeck",
+      "name": "Danny Welbeck",
+      "position": "Attacker",
+      "marketValue": "€3M",
+      "stats": {
+        "appearances": 3,
+        "minutesPlayed": 86,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 18,
+      "nationality": "England"
+    },
+    {
+      "id": "jorrel-hato",
+      "name": "Jorrel Hato",
+      "position": "Defender",
+      "marketValue": "€40M",
+      "stats": {
+        "appearances": 4,
+        "minutesPlayed": 260,
+        "goals": 0,
+        "assists": 2,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 21,
+      "nationality": "Netherlands"
+    },
+    {
+      "id": "emmanuel-emegha",
+      "name": "Emmanuel Emegha",
+      "position": "Attacker",
+      "marketValue": "€25M",
+      "stats": {
+        "appearances": 0,
+        "minutesPlayed": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 22,
+      "nationality": "Netherlands"
+    },
+    {
+      "id": "geovany-quenda",
+      "name": "Geovany Quenda",
+      "position": "Attacker",
+      "marketValue": "€42M",
+      "stats": {
+        "appearances": 2,
+        "minutesPlayed": 27,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 23,
+      "nationality": "Portugal"
+    },
+    {
+      "id": "reece-james",
+      "name": "Reece James",
+      "position": "Defender",
+      "marketValue": "€60M",
+      "stats": {
+        "appearances": 4,
+        "minutesPlayed": 292,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 1,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 24,
+      "nationality": "England"
+    },
+    {
+      "id": "moises-caicedo",
+      "name": "Moisés Caicedo",
+      "position": "Midfielder",
+      "marketValue": "€100M",
+      "stats": {
+        "appearances": 1,
+        "minutesPlayed": 14,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 25,
+      "nationality": "Ecuador"
+    },
+    {
+      "id": "malo-gusto",
+      "name": "Malo Gusto",
+      "position": "Defender",
+      "marketValue": "€35M",
+      "stats": {
+        "appearances": 4,
+        "minutesPlayed": 274,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 27,
+      "nationality": "France"
+    },
+    {
+      "id": "teddy-sharman-lowe",
+      "name": "Teddy Sharman-Lowe",
+      "position": "Goalkeeper",
+      "marketValue": "€0.5M",
+      "stats": {
+        "appearances": 0,
+        "minutesPlayed": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 28,
+      "nationality": "England"
+    },
+    {
+      "id": "pep-chavarria",
+      "name": "Pep Chavarría",
+      "position": "Defender",
+      "marketValue": "€10M",
+      "stats": {
+        "appearances": 5,
+        "minutesPlayed": 208,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 29,
+      "nationality": "Spain"
+    },
+    {
+      "id": "aaron-anselmino",
+      "name": "Aarón Anselmino",
+      "position": "Defender",
+      "marketValue": "€10M",
+      "stats": {
+        "appearances": 0,
+        "minutesPlayed": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 30,
+      "nationality": "Argentina"
+    },
+    {
+      "id": "josh-acheampong",
+      "name": "Josh Acheampong",
+      "position": "Defender",
+      "marketValue": "€25M",
+      "stats": {
+        "appearances": 4,
+        "minutesPlayed": 221,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 34,
+      "nationality": "England"
+    },
+    {
+      "id": "mike-penders",
+      "name": "Mike Penders",
+      "position": "Goalkeeper",
+      "marketValue": "€25M",
+      "stats": {
+        "appearances": 0,
+        "minutesPlayed": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 39,
+      "nationality": "Belgium"
+    },
+    {
+      "id": "estevao-willian",
+      "name": "Estêvão",
+      "position": "Attacker",
+      "marketValue": "€80M",
+      "stats": {
+        "appearances": 4,
+        "minutesPlayed": 23,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 41,
+      "nationality": "Brazil"
+    },
+    {
+      "id": "gabriel-slonina",
+      "name": "Gabriel Slonina",
+      "position": "Goalkeeper",
+      "marketValue": "€3M",
+      "stats": {
+        "appearances": 0,
+        "minutesPlayed": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 44,
+      "nationality": "United States"
+    },
+    {
+      "id": "romeo-lavia",
+      "name": "Roméo Lavia",
+      "position": "Midfielder",
+      "marketValue": "€22M",
+      "stats": {
+        "appearances": 4,
+        "minutesPlayed": 263,
+        "goals": 1,
+        "assists": 0,
+        "yellowCards": 1,
+        "redCards": 0,
+        "cleanSheets": null
+      },
+      "jerseyNumber": 45,
+      "nationality": "Belgium"
+    }
+  ]
+}
