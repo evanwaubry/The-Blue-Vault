@@ -1,6 +1,11 @@
-*.html linguist-vendored
-*.css linguist-vendored
+*.html linguist-detectable
+*.css linguist-detectable
 *.js linguist-detectable
 *.py linguist-detectable
 *.json linguist-generated
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.jpeg linguist-vendored
+*.gif linguist-vendored
+*.svg linguist-vendored
 *.md linguist-documentation
